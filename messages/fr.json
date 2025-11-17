@@ -1,0 +1,275 @@
+{
+  "Menu": {
+    "ProjectTooltip": "Simplifiez les projets. Donnez du pouvoir aux équipes.",
+    "CMSTooltip": "Intelligent, simple et fluide — étalonnage facilité",
+    "PPAPTooltip": "Assurer la qualité, chaque pièce, à chaque fois.",
+    "AllProducts": "Tous les produits"
+  },
+  "Header": {
+    "Engineering": "Excellence en ingénierie",
+    "Signup": "Inscription gratuite",
+    "Features": "Fonctionnalités",
+    "Pricing": "Tarification",
+    "ContactUs": "Nous contacter",
+    "Brochure": "Brochure",
+    "SignIn": "Se connecter"
+  },
+  "Hero": {
+    "Engineering": "Excellence en ingénierie",
+    "Title": "Une nouvelle ère de CRM fluide",
+    "Subtitle": "Capturez des prospects, concluez des ventes plus rapidement et ne manquez jamais un suivi — le tout avec un CRM puissant.",
+    "Button": "Essai gratuit",
+    "WatchDemo": "Voir la démo",
+    "BookADemo": "Réservez une démo gratuite dès maintenant !"
+  },
+  "ToolsSection": {
+    "Title": "Passez d’Excel à ACE CRM en quelques minutes",
+    "Subtitle": "Importez vos données, évitez la courbe d’apprentissage et commencez à vendre intelligemment — en quelques clics.",
+    "QuickImport": "Importation rapide",
+    "QuickImportDesc": "Importez facilement des données depuis n'importe quel CRM via des fichiers Excel ou CSV — ACE CRM s'occupe de tout.",
+    "SeamlessTransition": "Transition fluide",
+    "SeamlessTransitionDesc": "Passer d'Excel à ACE CRM est simple et rapide, sans configuration complexe.",
+    "ProductivityBoost": "Gain de productivité",
+    "ProductivityBoostDesc": "Des flux de travail rationalisés et des fonctionnalités d'automatisation vous font gagner du temps et augmentent l'efficacité de votre équipe.",
+    "EnhancedSecurity": "Sécurité renforcée",
+    "EnhancedSecurityDesc": "Vos données sont protégées avec une sécurité de niveau entreprise et des protocoles de chiffrement."
+  },
+  "FeaturesSection": {
+    "Heading": "Pourquoi choisir ACE CRM",
+    "Feature1": {
+      "Title": "Conçu pour être immédiatement familier",
+      "Description": "Navigation facile, aucune formation requise — un CRM intuitif dès le premier jour."
+    },
+    "Feature2": {
+      "Title": "Ne saisissez jamais deux fois les mêmes données",
+      "Description": "ACE CRM remplit automatiquement, synchronise et relie vos données — pour que vous puissiez vous concentrer sur la vente."
+    },
+    "Feature3": {
+      "Title": "Créez et partagez des devis instantanément",
+      "Description": "Soyez professionnel, concluez plus rapidement — devis personnalisés en quelques clics."
+    },
+    "Feature4": {
+      "Title": "Suivez la performance de votre équipe de vente",
+      "Description": "Surveillez les prospects, activités et ventes — tout depuis un tableau de bord intelligent, à tout moment et partout."
+    }
+  },
+  "StatsSection": {
+    "Title": "Fait confiance par des entreprises en croissance",
+    "Description": "Rejoignez des milliers d’équipes commerciales qui ont transformé leur processus de vente avec ACE CRM",
+    "ActiveCustomers": "Clients actifs",
+    "Years": "Années",
+    "Customer": "Satisfaction client"
+  },
+  "CallToAction": {
+    "Title": "Prêt à transformer votre processus de vente ?",
+    "Subtitle": "Commencez votre essai gratuit aujourd'hui.",
+    "GetStarted": "Commencer",
+    "ContactSales": "Contacter les ventes"
+  },
+  "Pricing": {
+    "Title": "Plans tarifaires",
+    "Subtitle": "Choisissez un plan adapté aux besoins de votre entreprise",
+    "Monthly": "Mensuel",
+    "Yearly": "Annuel",
+    "YearlyDiscount": "20% de réduction",
+    "FeaturesIncluded": "Fonctionnalités incluses :",
+    "ContactUs": "Nous contacter",
+    "EverythingInPremium": "Tout ce qui est dans le plan Premium.",
+    "Customizable": "Entièrement personnalisable selon vos besoins.",
+    "ScheduleReport": "Planification de rapports",
+    "ContactSales": "Contactez notre équipe commerciale pour des solutions personnalisées.",
+    "Month": "mois",
+    "billed": "facturé",
+    "AutoTrigger": "Création automatique basée sur des déclencheurs",
+    "Subscribe": "S’abonner maintenant",
+    "Contact": "Contacter les ventes",
+    "FeatureList": "Liste des fonctionnalités",
+    "Plans": {
+      "Standard": {
+        "Name": "Standard",
+        "Desc": "Outils essentiels pour les petites équipes",
+        "Users": "Jusqu'à 10 utilisateurs",
+        "MonthlyPerUser": "( ₹120/Utilisateur/mois )",
+        "YearlyPerUser": "( ₹96/Utilisateur/mois )",
+        "Trial": "Essai gratuit de 15 jours",
+        "Card": "- carte bancaire non requise"
+      },
+      "Premium": {
+        "Name": "Premium",
+        "Desc": "Fonctionnalités avancées pour les équipes en croissance",
+        "Users": "Jusqu'à 20 utilisateurs",
+        "MonthlyPerUser": "( ₹100/Utilisateur/mois )",
+        "YearlyPerUser": "( ₹80/Utilisateur/mois )",
+        "Trial": "Essai gratuit de 15 jours",
+        "Card": "- carte bancaire non requise",
+        "Tag": "Meilleure offre"
+      },
+      "Enterprise": {
+        "Name": "Entreprise",
+        "Desc": "Solution complète pour les grandes entreprises"
+      }
+    },
+    "Features": {
+      "standardNote": "(Jusqu’à 1500)",
+      "premiumNote": "(Jusqu’à 3000)",
+      "standardNote1": "(1)",
+      "standardNote10": "(Jusqu’à 10)",
+      "Unlimited": "(Illimité)",
+      "Excel": "Importation Excel & feuilles de calcul",
+      "LeadTracking": "Suivi des prospects",
+      "AdvancedSearch": "Recherche avancée et filtres",
+      "TaskAssignment": "Affectation et suivi des tâches",
+      "Opportunity": "Suivi des opportunités",
+      "Quotation": "Génération de devis",
+      "OrderManagement": "Gestion des commandes",
+      "CustomizedQuote": "Modèles de devis personnalisés",
+      "SalesTeam": "Suivi des performances commerciales",
+      "Calendar": "Calendrier et rappels d’activité",
+      "OneClick": "Rapports et analyses en un clic",
+      "SecureCloud": "Stockage cloud sécurisé",
+      "ScheduleReport": "Planification de rapports"
+    },
+    "Alert": {
+      "title": "Connexion requise",
+      "des": "Les abonnements sont disponibles uniquement pour les utilisateurs enregistrés. Pour profiter de tous les avantages et compléter votre abonnement, veuillez vous connecter à votre compte en cliquant sur le bouton Connexion ci-dessous.",
+      "login": "Connexion",
+      "maybe": "Peut-être plus tard"
+    }
+  },
+  "ProductEnquire": {
+    "code": "FR",
+    "Title": "Demande de produit",
+    "Name": "Nom",
+    "NamePlaceholder": "Entrez votre nom",
+    "Company": "Nom de l'entreprise",
+    "CompanyPlaceholder": "Entrez le nom de votre entreprise",
+    "Email": "E-mail professionnel",
+    "EmailPlaceholder": "Entrez votre e-mail professionnel",
+    "Mobile": "Numéro de téléphone",
+    "Location": "Votre emplacement",
+    "LocationPlaceholder": "Entrez votre emplacement",
+    "Product": "Produit d’intérêt",
+    "Queries": "Questions",
+    "QueriesPlaceholder": "Entrez vos questions",
+    "Submit": "Envoyer",
+    "Submitting": "Envoi en cours...",
+    "ContactUs": "Nous contacter",
+    "EmailError": "Veuillez entrer une adresse e-mail valide.",
+    "PhoneError": "Veuillez entrer un numéro de téléphone valide.",
+    "Failure": "Une erreur s'est produite lors de l'envoi. Veuillez réessayer plus tard.",
+    "ValidationUnavailable": "Service de validation d'e-mail indisponible.",
+    "contact": {
+      "Email": "Email",
+      "Phone": "Téléphone",
+      "Location": "Emplacement",
+      "Address": "#306, 2ème étage, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, Inde"
+    }
+  },
+  "ThankYou": {
+    "Title": "Merci de nous avoir contactés !",
+    "Subtitle": "Nous vous remercions d’avoir pris le temps de nous contacter. Votre demande est importante pour nous et nous sommes ravis de pouvoir vous aider.",
+    "Review": "En cours d’examen",
+    "para": "Notre équipe examine votre message",
+    "Soon": "Nous répondrons bientôt",
+    "Expect": "Attendez-vous à une réponse sous 24 heures",
+    "Home": "Retour à la page d’accueil",
+    "Chat": "Discuter sur WhatsApp",
+    "Explore": "Découvrir nos produits",
+    "need": "Besoin d’une assistance immédiate ? Appelez-nous",
+    "Success": "Succès !",
+    "form": "Votre formulaire a été soumis avec succès"
+  },
+  "Footer": {
+    "contactUs": "Contactez-nous",
+    "address": "#306, 2ème étage, NSIC - Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, Inde",
+    "links": {
+      "QuickLinks": "Liens Rapides",
+      "help": "Aide",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "Features": "Fonctionnalités",
+      "Pricing": "Tarifs",
+      "Clients": "Clients",
+      "Contact": "Contactez-nous",
+      "productEnquiry": "Demande de Produit",
+      "bookDemo": "Réserver une Démo",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Termes et Conditions"
+    },
+    "copyright": "© Droits d'auteur 2025, Tous droits réservés "
+  },
+  "BookDemo": {
+    "BookDemo": "Réserver une démo",
+    "ContactUs": "Contactez-nous",
+    "para": "Veuillez remplir le formulaire, un expert produit qualifié vous contactera sous peu pour comprendre vos besoins et recommander la solution la plus adaptée à votre entreprise.",
+    "write": "Vous pouvez également nous écrire à :"
+  },
+  "CallbackCard": {
+    "Heading": "Besoin d’aide pour trouver ce qu’il vous faut ?",
+    "highlight": "le bon produit",
+    "Subtitle": "Vous avez des questions ou des besoins produit ? Nous sommes là pour vous aider.",
+    "contact": "Contactez-nous",
+    "phone": "Téléphone",
+    "email": "Email",
+    "Title": "Produits les plus populaires",
+    "feature1": "Système de gestion de l'étalonnage",
+    "feature2": "Gestion de la relation client",
+    "tagline1": "Boostez la productivité avec une gestion d'étalonnage fiable.",
+    "tagline2": "Connaissez vos clients. Créez la confiance. Développez votre entreprise.",
+    "LearnMore": "En savoir plus"
+  },
+  "Testimonials": {
+    "Client": "Nos Clients",
+    "Title": "Ce Que Disent Nos Clients",
+    "user1": {
+      "Name": "Rajesh Kumar",
+      "Role": "Responsable des Ventes",
+      "Quote": "Nous sommes passés à ACE CRM après avoir rencontré des plateformes trop complexes. Ce qui nous a le plus surpris, c'est que notre équipe n'avait besoin d'aucune formation. Tout le monde — des représentants commerciaux aux managers — était opérationnel le jour même."
+    },
+    "user2": {
+      "Name": "Arvind Krishnan",
+      "Role": "Responsable des Opérations",
+      "Quote": "ACE CRM a éliminé les tracas des entrées en double. Les leads arrivent directement depuis notre site web, les contacts se synchronisent automatiquement et les informations clients sont toujours à jour."
+    },
+    "user3": {
+      "Name": "Sandeep Joshi",
+      "Role": "Responsable Développement Commercial",
+      "Quote": "Avec ACE CRM, créer des propositions est devenu facile. Ce qui prenait auparavant tout un après-midi est maintenant fait en quelques minutes. Les clients apprécient les devis professionnels et brandés."
+    },
+    "user4": {
+      "Name": "Priya Iyer",
+      "Role": "Responsable Finance",
+      "Quote": "Le tableau de bord en temps réel a transformé la façon dont je gère mon équipe commerciale. Je peux voir instantanément qui convertit les leads, où les affaires sont bloquées et quelles activités génèrent des résultats."
+    },
+    "user5": {
+      "Name": "Lakshmi Narayanan",
+      "Role": "Directrice Marketing",
+      "Quote": "ACE CRM a complètement rationalisé notre manière de travailler avec les clients. De la capture des leads à la clôture, tout est connecté et visible. Cela a augmenté l'efficacité des équipes."
+    },
+    "user6": {
+      "Name": "Abhishek",
+      "Role": "Chef de Produit",
+      "Quote": "En tant que startup en croissance, nous avions besoin d’un CRM à la fois puissant et facile à adopter. ACE CRM a trouvé le parfait équilibre — il évolue avec nous tout en restant extrêmement convivial."
+    }
+  },
+  "Popup": {
+    "Offer": "Offre à Durée Limitée",
+    "Try": "Essayez le Premium Gratuitement !",
+    "Get": "Obtenez un accès complet à notre",
+    "Platform": "plateforme pendant 15 jours",
+    "Free": "totalement gratuit !",
+    "All": "Toutes les fonctionnalités Premium incluses :",
+    "Manage": "Gérez vos leads facilement",
+    "Track": "- Suivez, organisez et convertissez vos leads plus rapidement",
+    "Sales": "Pipeline de Ventes",
+    "Visualize": "- Visualisez l’ensemble de votre processus de vente",
+    "Advanced": "Analytique Avancée",
+    "Make": "- Prenez des décisions basées sur les données",
+    "Start": "Commencer mon essai gratuit",
+    "Credit": "Aucune carte de crédit requise",
+    "Cancel": "Annulez à tout moment • Accès premium complet • 15 jours gratuits",
+    "Book": "Réservez votre",
+    "Live": "Démo en direct gratuite",
+    "Discover": "Découvrez le moyen le plus simple d’organiser vos leads, de suivre les affaires et de développer votre entreprise avec ACE CRM."
+  }
+}

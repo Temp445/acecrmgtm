@@ -1,0 +1,275 @@
+{
+  "Menu": {
+    "ProjectTooltip": "Simplifique projetos. Empodere equipes.",
+    "CMSTooltip": "Inteligente, simples e contínuo — calibração facilitada",
+    "PPAPTooltip": "Garantindo qualidade, cada peça, sempre.",
+    "AllProducts": "Todos os Produtos"
+  },
+  "Header": {
+    "Engineering": "Excelência em Engenharia",
+    "Signup": "Cadastre-se Gratuitamente",
+    "Features": "Recursos",
+    "Pricing": "Preços",
+    "ContactUs": "Fale Conosco",
+    "Brochure": "Brochura",
+    "SignIn": "Entrar"
+  },
+  "Hero": {
+    "Engineering": "Excelência em Engenharia",
+    "Title": "Uma Nova Era de CRM Sem Complicações",
+    "Subtitle": "Capture leads, feche negócios mais rápido e nunca perca um acompanhamento — tudo com um único CRM poderoso.",
+    "Button": "Iniciar Teste Grátis",
+    "WatchDemo": "Assistir Demonstração",
+    "BookADemo": "Agende uma Demonstração Gratuita!"
+  },
+  "ToolsSection": {
+    "Title": "Mude do Excel para o ACE CRM em Minutos",
+    "Subtitle": "Importe seus dados, pule a curva de aprendizado e comece a vender de forma mais inteligente — tudo em poucos cliques.",
+    "QuickImport": "Importação Rápida",
+    "QuickImportDesc": "Importe dados de qualquer CRM usando arquivos Excel ou CSV — o ACE CRM cuida da integração.",
+    "SeamlessTransition": "Transição Sem Complicações",
+    "SeamlessTransitionDesc": "Migrar do Excel para o ACE CRM é rápido e sem dificuldades, sem necessidade de configurações complexas.",
+    "ProductivityBoost": "Aumento de Produtividade",
+    "ProductivityBoostDesc": "Fluxos de trabalho otimizados e automações economizam tempo e aumentam a eficiência da equipe.",
+    "EnhancedSecurity": "Segurança Reforçada",
+    "EnhancedSecurityDesc": "Seus dados estão protegidos com segurança e criptografia de nível empresarial."
+  },
+  "FeaturesSection": {
+    "Heading": "Por que o ACE CRM é a Escolha Certa",
+    "Feature1": {
+      "Title": "Projetado para Ser Familiar Desde o Início",
+      "Description": "Navegue com facilidade, sem necessidade de treinamento — apenas um CRM intuitivo desde o primeiro dia."
+    },
+    "Feature2": {
+      "Title": "Nunca Digite o Mesmo Dado Duas Vezes",
+      "Description": "O ACE CRM preenche automaticamente, sincroniza e conecta seus dados — foque nas vendas, não na digitação."
+    },
+    "Feature3": {
+      "Title": "Crie e Compartilhe Orçamentos Instantaneamente",
+      "Description": "Passe profissionalismo e feche negócios mais rápido com orçamentos personalizados em poucos cliques."
+    },
+    "Feature4": {
+      "Title": "Acompanhe o Desempenho da Equipe de Vendas",
+      "Description": "Monitore leads, atividades e fechamentos — tudo em um painel inteligente, a qualquer hora e lugar."
+    }
+  },
+  "StatsSection": {
+    "Title": "Confiado por Empresas em Crescimento",
+    "Description": "Junte-se a milhares de equipes de vendas que transformaram seus processos com o ACE CRM",
+    "ActiveCustomers": "Clientes Ativos",
+    "Years": "Anos",
+    "Customer": "Satisfação do Cliente"
+  },
+  "CallToAction": {
+    "Title": "Pronto para transformar seu processo de vendas?",
+    "Subtitle": "Comece seu teste gratuito hoje.",
+    "GetStarted": "Começar Agora",
+    "ContactSales": "Falar com Vendas"
+  },
+  "Pricing": {
+    "Title": "Planos de Preço",
+    "Subtitle": "Escolha um plano que atenda às necessidades da sua empresa",
+    "Monthly": "Mensal",
+    "Yearly": "Anual",
+    "YearlyDiscount": "20% de Desconto",
+    "FeaturesIncluded": "Recursos incluídos:",
+    "ContactUs": "Fale Conosco",
+    "EverythingInPremium": "Tudo incluído no plano Premium.",
+    "Customizable": "Totalmente personalizável para sua necessidade.",
+    "ScheduleReport": "Agendamento de Relatórios",
+    "ContactSales": "Fale com nosso time para soluções personalizadas.",
+    "Month": "mês",
+    "billed": "faturado",
+    "AutoTrigger": "Criação Automática com Base em Gatilhos",
+    "Subscribe": "Assinar Agora",
+    "Contact": "Falar com Vendas",
+    "FeatureList": "Lista de Recursos",
+    "Plans": {
+      "Standard": {
+        "Name": "Standard",
+        "Desc": "Ferramentas essenciais para pequenas equipes",
+        "Users": "Até 10 Usuários",
+        "MonthlyPerUser": "( ₹120/usuário/mês )",
+        "YearlyPerUser": "( ₹96/usuário/mês )",
+        "Trial": "Teste grátis por 15 dias",
+        "Card": "- não é necessário cartão de crédito"
+      },
+      "Premium": {
+        "Name": "Premium",
+        "Desc": "Recursos avançados para equipes em crescimento",
+        "Users": "Até 20 Usuários",
+        "MonthlyPerUser": "( ₹100/usuário/mês )",
+        "YearlyPerUser": "( ₹80/usuário/mês )",
+        "Trial": "Teste grátis por 15 dias",
+        "Card": "- não é necessário cartão de crédito",
+        "Tag": "Melhor Valor"
+      },
+      "Enterprise": {
+        "Name": "Enterprise",
+        "Desc": "Solução completa para grandes empresas"
+      }
+    },
+    "Features": {
+      "standardNote": "(Até 1500)",
+      "premiumNote": "(Até 3000)",
+      "standardNote1": "(1)",
+      "standardNote10": "(Até 10)",
+      "Unlimited": "(Ilimitado)",
+      "Excel": "Importação de Excel e Planilhas",
+      "LeadTracking": "Rastreamento de Leads",
+      "AdvancedSearch": "Busca Avançada e Filtros",
+      "TaskAssignment": "Atribuição e Acompanhamento de Tarefas",
+      "Opportunity": "Gestão de Oportunidades",
+      "Quotation": "Geração de Orçamentos",
+      "OrderManagement": "Gestão de Pedidos",
+      "CustomizedQuote": "Modelos de Orçamento Personalizados",
+      "SalesTeam": "Monitoramento da Equipe de Vendas",
+      "Calendar": "Calendário e Lembretes de Atividades",
+      "OneClick": "Relatórios e Análises com Um Clique",
+      "SecureCloud": "Armazenamento Seguro na Nuvem",
+      "ScheduleReport": "Agendamento de Relatórios"
+    },
+    "Alert": {
+      "title": "Login Necessário",
+      "des": "As assinaturas estão disponíveis apenas para usuários registrados. Para aproveitar todos os benefícios e completar sua assinatura, faça login em sua conta clicando no botão Login abaixo.",
+      "login": "Login",
+      "maybe": "Talvez Depois"
+    }
+  },
+  "ProductEnquire": {
+    "code": "PT",
+    "Title": "Consulta de Produto",
+    "Name": "Nome",
+    "NamePlaceholder": "Digite seu nome",
+    "Company": "Nome da Empresa",
+    "CompanyPlaceholder": "Digite o nome da sua empresa",
+    "Email": "Email Comercial",
+    "EmailPlaceholder": "Digite seu email comercial",
+    "Mobile": "Número de Telefone",
+    "Location": "Sua Localização",
+    "LocationPlaceholder": "Digite sua localização",
+    "Product": "Produto de Interesse",
+    "Queries": "Dúvidas",
+    "QueriesPlaceholder": "Digite suas dúvidas",
+    "Submit": "Enviar",
+    "Submitting": "Enviando...",
+    "ContactUs": "Fale Conosco",
+    "EmailError": "Por favor, insira um email válido.",
+    "PhoneError": "Por favor, insira um número de telefone válido.",
+    "Failure": "Houve um erro ao enviar sua mensagem. Tente novamente mais tarde.",
+    "ValidationUnavailable": "Serviço de validação de email indisponível.",
+    "contact": {
+      "Email": "Email",
+      "Phone": "Telefone",
+      "Location": "Localização",
+      "Address": "#306, 2º Andar, NSIC-Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, Índia"
+    }
+  },
+  "ThankYou": {
+    "Title": "Obrigado por entrar em contato!",
+    "Subtitle": "Agradecemos por dedicar seu tempo para nos contatar. Sua consulta é importante para nós e estamos entusiasmados em ajudá-lo.",
+    "Review": "Em análise",
+    "para": "Nossa equipe está revisando sua mensagem",
+    "Soon": "Responderemos em breve",
+    "Expect": "Espere uma resposta em até 24 horas",
+    "Home": "Voltar para a página inicial",
+    "Chat": "Conversar no WhatsApp",
+    "Explore": "Explore nossos produtos",
+    "need": "Precisa de assistência imediata? Ligue para nós",
+    "Success": "Sucesso!",
+    "form": "Seu formulário foi enviado com sucesso"
+  },
+  "Footer": {
+    "contactUs": "Contate-Nos",
+    "address": "#306, 2º Andar, NSIC - Software Technology Business Park, B-24, Guindy Industrial Estate, Ekkatuthangal, Chennai-600032, Índia",
+    "links": {
+      "QuickLinks": "Links Rápidos",
+      "help": "Ajuda",
+      "phone": "Telefone",
+      "email": "Email",
+      "Features": "Recursos",
+      "Pricing": "Preços",
+      "Clients": "Clientes",
+      "Contact": "Contate-Nos",
+      "productEnquiry": "Consulta de Produto",
+      "bookDemo": "Agendar uma Demonstração",
+      "privacy": "Política de Privacidade",
+      "terms": "Termos e Condições"
+    },
+    "copyright": "© Direitos Autorais 2025, Todos os Direitos Reservados "
+  },
+  "BookDemo": {
+    "BookDemo": "Agendar uma demonstração",
+    "ContactUs": "Contate-nos",
+    "para": "Por favor, preencha o formulário e um especialista qualificado em produtos entrará em contato com você em breve para entender suas necessidades e recomendar a solução mais adequada para o seu negócio.",
+    "write": "Você também pode nos escrever para:"
+  },
+  "CallbackCard": {
+    "Heading": "Precisa de ajuda para encontrar o que precisa?",
+    "highlight": "produto certo",
+    "Subtitle": "Tem dúvidas ou precisa de um produto? Teremos prazer em ajudar.",
+    "contact": "Contate-nos",
+    "phone": "Telefone",
+    "email": "Email",
+    "Title": "Produtos mais populares",
+    "feature1": "Sistema de Gestão de Calibração",
+    "feature2": "Gestão de Relacionamento com o Cliente",
+    "tagline1": "Aumente a produtividade com uma gestão de calibração confiável.",
+    "tagline2": "Conheça seus clientes. Construa confiança. Cresça seu negócio.",
+    "LearnMore": "Saiba mais"
+  },
+  "Testimonials": {
+    "Client": "Nossos Clientes",
+    "Title": "O que Nossos Clientes Dizem",
+    "user1": {
+      "Name": "Rajesh Kumar",
+      "Role": "Gerente de Vendas",
+      "Quote": "Mudamos para o ACE CRM após enfrentar plataformas excessivamente complexas. O que mais nos surpreendeu foi que nossa equipe não precisou de nenhum treinamento. Todos – de representantes de vendas a gerentes – estavam funcionando no mesmo dia."
+    },
+    "user2": {
+      "Name": "Arvind Krishnan",
+      "Role": "Gerente de Operações",
+      "Quote": "O ACE CRM eliminou a dor de cabeça das entradas duplicadas. Leads fluem diretamente do nosso site, os contatos sincronizam automaticamente, e os detalhes do cliente estão sempre atualizados."
+    },
+    "user3": {
+      "Name": "Sandeep Joshi",
+      "Role": "Gerente de Desenvolvimento de Negócios",
+      "Quote": "Com o ACE CRM, criar propostas se tornou fácil. O que antes levava a tarde inteira, agora é feito em minutos. Os clientes adoram as cotações profissionais e com marca."
+    },
+    "user4": {
+      "Name": "Priya Iyer",
+      "Role": "Chefe de Finanças",
+      "Quote": "O painel em tempo real transformou a forma como gerencio minha equipe de vendas. Posso ver instantaneamente quem está convertendo leads, onde os negócios estão travados e quais atividades geram resultados."
+    },
+    "user5": {
+      "Name": "Lakshmi Narayanan",
+      "Role": "Diretor de Marketing",
+      "Quote": "O ACE CRM simplificou completamente como trabalhamos com os clientes. Desde a captura de leads até o fechamento, tudo está conectado e visível. Isso aumentou a eficiência das equipes."
+    },
+    "user6": {
+      "Name": "Abhishek",
+      "Role": "Gerente de Produto",
+      "Quote": "Como uma startup em crescimento, precisávamos de um CRM que fosse poderoso e fácil de adotar. O ACE CRM atingiu o equilíbrio perfeito — ele cresce conosco e continua incrivelmente fácil de usar."
+    }
+  },
+  "Popup": {
+    "Offer": "Oferta por Tempo Limitado",
+    "Try": "Experimente o Premium Grátis!",
+    "Get": "Obtenha acesso completo ao nosso",
+    "Platform": "plataforma por 15 dias",
+    "Free": "totalmente gratuito!",
+    "All": "Todos os Recursos Premium Incluídos:",
+    "Manage": "Gerencie Leads Sem Esforço",
+    "Track": "- Acompanhe, organize e converta leads mais rápido",
+    "Sales": "Pipeline de Vendas",
+    "Visualize": "- Visualize todo o seu processo de vendas",
+    "Advanced": "Análises Avançadas",
+    "Make": "- Tome decisões baseadas em dados",
+    "Start": "Comece Meu Teste Gratuito",
+    "Credit": "Não é necessário cartão de crédito",
+    "Cancel": "Cancele a qualquer momento • Acesso premium completo • 15 dias grátis",
+    "Book": "Reserve seu",
+    "Live": "Demonstração Ao Vivo Gratuita",
+    "Discover": "Descubra a maneira mais simples de organizar seus leads, acompanhar negócios e expandir seu negócio com o ACE CRM."
+  }
+}

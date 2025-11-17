@@ -1,0 +1,275 @@
+{
+  "Menu": {
+    "ProjectTooltip": "简化项目，赋能团队。",
+    "CMSTooltip": "智能、简单、无缝 — 轻松实现校准管理",
+    "PPAPTooltip": "保障质量，每个零件，每一次。",
+    "AllProducts": "所有产品"
+  },
+  "Header": {
+    "Engineering": "卓越工程",
+    "Signup": "免费注册",
+    "Features": "功能",
+    "Pricing": "价格",
+    "ContactUs": "联系我们",
+    "Brochure": "宣传册",
+    "SignIn": "登录"
+  },
+  "Hero": {
+    "Engineering": "卓越工程",
+    "Title": "无缝 CRM 的新时代",
+    "Subtitle": "捕捉潜在客户，更快成交，不错过任何跟进 — 一款强大的 CRM 解决方案统统搞定。",
+    "Button": "开始免费试用",
+    "WatchDemo": "观看演示",
+    "BookADemo": "立即预约免费演示！"
+  },
+  "ToolsSection": {
+    "Title": "几分钟内从 Excel 切换到 ACE CRM",
+    "Subtitle": "导入数据，省去学习曲线，轻松开始智能销售 — 只需几步操作。",
+    "QuickImport": "快速导入",
+    "QuickImportDesc": "通过 Excel 或 CSV 文件轻松导入来自任意 CRM 的数据 — ACE CRM 自动处理集成。",
+    "SeamlessTransition": "无缝切换",
+    "SeamlessTransitionDesc": "从 Excel 迁移到 ACE CRM 快速无忧，无需复杂设置。",
+    "ProductivityBoost": "提升效率",
+    "ProductivityBoostDesc": "简化的工作流程与自动化功能节省时间，提高团队效率。",
+    "EnhancedSecurity": "增强安全性",
+    "EnhancedSecurityDesc": "企业级安全与加密协议保障您的业务数据安全。"
+  },
+  "FeaturesSection": {
+    "Heading": "为什么选择 ACE CRM？",
+    "Feature1": {
+      "Title": "设计直观，即刻上手",
+      "Description": "界面直观、操作简单，无需培训 — 第一天就能顺利使用。"
+    },
+    "Feature2": {
+      "Title": "避免重复输入数据",
+      "Description": "ACE CRM 自动填充、同步并关联数据，让你专注销售而非重复录入。"
+    },
+    "Feature3": {
+      "Title": "快速创建与分享报价",
+      "Description": "轻松几步即可生成专业报价，助您更快成交。"
+    },
+    "Feature4": {
+      "Title": "销售团队绩效追踪",
+      "Description": "随时随地通过智能仪表盘监控潜在客户、活动与成交情况。"
+    }
+  },
+  "StatsSection": {
+    "Title": "被成长型企业信赖",
+    "Description": "数千销售团队通过 ACE CRM 实现销售流程革新",
+    "ActiveCustomers": "活跃客户",
+    "Years": "年",
+    "Customer": "客户满意度"
+  },
+  "CallToAction": {
+    "Title": "准备好优化您的销售流程了吗？",
+    "Subtitle": "立即开始免费试用。",
+    "GetStarted": "立即开始",
+    "ContactSales": "联系销售团队"
+  },
+  "Pricing": {
+    "Title": "价格方案",
+    "Subtitle": "选择适合您业务的计划",
+    "Monthly": "按月",
+    "Yearly": "按年",
+    "YearlyDiscount": "立减 20%",
+    "FeaturesIncluded": "包含功能：",
+    "ContactUs": "联系我们",
+    "EverythingInPremium": "包含 Premium 计划中的所有内容。",
+    "Customizable": "完全可根据需求定制。",
+    "ScheduleReport": "定时报告功能",
+    "ContactSales": "如需定制解决方案，请联系销售团队。",
+    "Month": "月",
+    "billed": "计费",
+    "AutoTrigger": "基于触发器自动创建",
+    "Subscribe": "立即订阅",
+    "Contact": "联系销售",
+    "FeatureList": "功能列表",
+    "Plans": {
+      "Standard": {
+        "Name": "标准版",
+        "Desc": "适合小型团队的基础工具",
+        "Users": "最多 10 位用户",
+        "MonthlyPerUser": "（₹120/用户/月）",
+        "YearlyPerUser": "（₹96/用户/月）",
+        "Trial": "15 天免费试用",
+        "Card": "— 无需信用卡"
+      },
+      "Premium": {
+        "Name": "高级版",
+        "Desc": "适合成长型团队的进阶功能",
+        "Users": "最多 20 位用户",
+        "MonthlyPerUser": "（₹100/用户/月）",
+        "YearlyPerUser": "（₹80/用户/月）",
+        "Trial": "15 天免费试用",
+        "Card": "— 无需信用卡",
+        "Tag": "最划算"
+      },
+      "Enterprise": {
+        "Name": "企业版",
+        "Desc": "适合大型企业的全面解决方案"
+      }
+    },
+    "Features": {
+      "standardNote": "（最多 1500）",
+      "premiumNote": "（最多 3000）",
+      "standardNote1": "（1）",
+      "standardNote10": "（最多 10）",
+      "Unlimited": "（无限制）",
+      "Excel": "Excel 与表格导入",
+      "LeadTracking": "潜在客户跟踪",
+      "AdvancedSearch": "高级搜索与筛选",
+      "TaskAssignment": "任务分配与跟踪",
+      "Opportunity": "销售机会管理",
+      "Quotation": "报价单生成",
+      "OrderManagement": "订单管理",
+      "CustomizedQuote": "自定义报价模板",
+      "SalesTeam": "销售团队绩效监控",
+      "Calendar": "日历与提醒",
+      "OneClick": "一键报表与分析",
+      "SecureCloud": "安全云存储",
+      "ScheduleReport": "定时报告"
+    },
+    "Alert": {
+      "title": "需要登录",
+      "des": "订阅仅对注册用户开放。要享受所有权益并完成订阅，请点击下面的登录按钮登录您的账户。",
+      "login": "登录",
+      "maybe": "稍后"
+    }
+  },
+  "ProductEnquire": {
+    "code": "CN",
+    "Title": "产品咨询",
+    "Name": "姓名",
+    "NamePlaceholder": "请输入您的姓名",
+    "Company": "公司名称",
+    "CompanyPlaceholder": "请输入您的公司名称",
+    "Email": "公司邮箱",
+    "EmailPlaceholder": "请输入您的公司邮箱",
+    "Mobile": "手机号",
+    "Location": "所在地",
+    "LocationPlaceholder": "请输入您的所在地",
+    "Product": "感兴趣的产品",
+    "Queries": "咨询内容",
+    "QueriesPlaceholder": "请输入您的问题或需求",
+    "Submit": "提交",
+    "Submitting": "提交中...",
+    "ContactUs": "联系我们",
+    "EmailError": "请输入有效的邮箱地址。",
+    "PhoneError": "请输入有效的手机号。",
+    "Failure": "发送失败，请稍后再试。",
+    "ValidationUnavailable": "邮箱验证服务当前不可用。",
+    "contact": {
+      "Email": "电子邮件",
+      "Phone": "电话",
+      "Location": "位置",
+      "Address": "#306, 二楼, NSIC软件技术商务园, B-24, Guindy工业区, Ekkatuthangal, 金奈-600032, 印度"
+    }
+  },
+  "ThankYou": {
+    "Title": "感谢您的联系！",
+    "Subtitle": "感谢您抽出时间与我们联系。您的咨询对我们非常重要，我们很高兴为您提供帮助。",
+    "Review": "审核中",
+    "para": "我们的团队正在审核您的消息",
+    "Soon": "我们将很快回复您",
+    "Expect": "请在24小时内期待回复",
+    "Home": "返回首页",
+    "Chat": "在WhatsApp上聊天",
+    "Explore": "探索我们的产品",
+    "need": "需要立即帮助吗？请致电联系我们",
+    "Success": "成功！",
+    "form": "您的表单已成功提交"
+  },
+  "Footer": {
+    "contactUs": "联系我们",
+    "address": "#306, 二楼, NSIC软件技术商务园, B-24, Guindy工业区, Ekkatuthangal, 金奈-600032, 印度",
+    "links": {
+      "QuickLinks": "快速链接",
+      "help": "帮助",
+      "phone": "电话",
+      "email": "邮箱",
+      "Features": "功能",
+      "Pricing": "定价",
+      "Clients": "客户",
+      "Contact": "联系我们",
+      "productEnquiry": "产品咨询",
+      "bookDemo": "预约演示",
+      "privacy": "隐私政策",
+      "terms": "条款和条件"
+    },
+    "copyright": "© 版权 2025, 保留所有权利 "
+  },
+  "BookDemo": {
+    "BookDemo": "预约演示",
+    "ContactUs": "联系我们",
+    "para": "请填写表格，我们的专业产品顾问将尽快与您联系，了解您的需求，并为您的业务推荐最合适的解决方案。",
+    "write": "您也可以写信给我们："
+  },
+  "CallbackCard": {
+    "Heading": "需要帮助寻找合适的产品？",
+    "highlight": "合适的产品",
+    "Subtitle": "有任何问题或产品需求？我们乐意为您提供帮助。",
+    "contact": "联系我们",
+    "phone": "电话",
+    "email": "电子邮件",
+    "Title": "最受欢迎的产品",
+    "feature1": "校准管理系统",
+    "feature2": "客户关系管理",
+    "tagline1": "通过可靠的校准管理提升生产效率。",
+    "tagline2": "了解客户，建立信任，发展业务。",
+    "LearnMore": "了解更多"
+  },
+  "Testimonials": {
+    "Client": "我们的客户",
+    "Title": "客户评价",
+    "user1": {
+      "Name": "Rajesh Kumar",
+      "Role": "销售经理",
+      "Quote": "在使用过于复杂的平台后，我们转向了ACE CRM。最让我们惊讶的是团队无需任何培训。每个人——从销售代表到经理——当天就能上手。"
+    },
+    "user2": {
+      "Name": "Arvind Krishnan",
+      "Role": "运营经理",
+      "Quote": "ACE CRM消除了重复录入的烦恼。线索直接来自我们的网站，联系人自动同步，客户信息始终保持更新。"
+    },
+    "user3": {
+      "Name": "Sandeep Joshi",
+      "Role": "业务发展经理",
+      "Quote": "使用ACE CRM，创建报价变得轻松。过去需要一下午的工作现在几分钟即可完成。客户非常喜欢专业化和品牌化的报价。"
+    },
+    "user4": {
+      "Name": "Priya Iyer",
+      "Role": "财务主管",
+      "Quote": "实时仪表盘改变了我管理销售团队的方式。我可以即时看到谁在转化线索，哪些交易被卡住，以及哪些活动产生效果。"
+    },
+    "user5": {
+      "Name": "Lakshmi Narayanan",
+      "Role": "市场总监",
+      "Quote": "ACE CRM彻底优化了我们与客户的工作流程。从线索捕获到成交，一切都已连接并可见，提高了团队效率。"
+    },
+    "user6": {
+      "Name": "Abhishek",
+      "Role": "产品经理",
+      "Quote": "作为一家成长中的初创公司，我们需要一个强大且易于采用的CRM。ACE CRM实现了完美平衡——它随着我们成长，同时保持极其用户友好。"
+    }
+  },
+  "Popup": {
+    "Offer": "限时优惠",
+    "Try": "免费试用高级版！",
+    "Get": "获取我们平台的完整访问权限",
+    "Platform": "15天",
+    "Free": "完全免费！",
+    "All": "包含所有高级功能：",
+    "Manage": "轻松管理潜在客户",
+    "Track": "- 跟踪、组织并更快地转化潜在客户",
+    "Sales": "销售流程",
+    "Visualize": "- 可视化整个销售流程",
+    "Advanced": "高级分析",
+    "Make": "- 做出数据驱动的决策",
+    "Start": "开始我的免费试用",
+    "Credit": "无需信用卡",
+    "Cancel": "随时取消 • 完整高级访问 • 15天免费",
+    "Book": "预约您的",
+    "Live": "免费直播演示",
+    "Discover": "发现用 ACE CRM 组织潜在客户、跟踪交易和发展业务的最简单方法。"
+  }
+}

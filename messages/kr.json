@@ -1,0 +1,275 @@
+{
+  "Menu": {
+    "ProjectTooltip": "프로젝트를 간소화하고 팀을 강화하세요.",
+    "CMSTooltip": "스마트하고 간편하며 원활한 — 손쉬운 교정 관리",
+    "PPAPTooltip": "품질 보장, 모든 부품, 모든 시간에.",
+    "AllProducts": "모든 제품"
+  },
+  "Header": {
+    "Engineering": "엔지니어링의 우수성",
+    "Signup": "무료 가입",
+    "Features": "기능",
+    "Pricing": "가격",
+    "ContactUs": "문의하기",
+    "Brochure": "브로셔",
+    "SignIn": "로그인"
+  },
+  "Hero": {
+    "Engineering": "엔지니어링의 우수성",
+    "Title": "매끄러운 CRM의 새로운 시대",
+    "Subtitle": "리드를 캡처하고, 거래를 더 빨리 성사시키며, 후속 조치를 놓치지 마세요 — 강력한 CRM 하나로 모두 해결.",
+    "Button": "무료 체험 시작",
+    "WatchDemo": "데모 보기",
+    "BookADemo": "지금 무료 데모 예약!"
+  },
+  "ToolsSection": {
+    "Title": "몇 분 만에 Excel에서 ACE CRM으로 전환",
+    "Subtitle": "데이터를 가져오고 학습 곡선을 생략하고 스마트한 영업을 바로 시작하세요.",
+    "QuickImport": "빠른 가져오기",
+    "QuickImportDesc": "Excel 또는 CSV 파일을 통해 다른 CRM에서 데이터를 손쉽게 가져오기 — ACE CRM이 통합을 처리합니다.",
+    "SeamlessTransition": "매끄러운 전환",
+    "SeamlessTransitionDesc": "Excel에서 ACE CRM으로의 전환은 간편하고 빠르며 복잡한 설정이 필요 없습니다.",
+    "ProductivityBoost": "생산성 향상",
+    "ProductivityBoostDesc": "효율적인 워크플로우와 자동화 기능으로 시간을 절약하고 팀 효율을 높입니다.",
+    "EnhancedSecurity": "강화된 보안",
+    "EnhancedSecurityDesc": "비즈니스 데이터는 엔터프라이즈급 보안 및 암호화 프로토콜로 보호됩니다."
+  },
+  "FeaturesSection": {
+    "Heading": "왜 ACE CRM이 최고의 선택인가요?",
+    "Feature1": {
+      "Title": "익숙한 사용자 경험을 제공",
+      "Description": "간편한 탐색, 별도의 교육 필요 없음 — 처음부터 직관적인 CRM 사용 가능."
+    },
+    "Feature2": {
+      "Title": "동일한 데이터를 두 번 입력할 필요 없음",
+      "Description": "ACE CRM은 자동 완성, 동기화, 연결 — 타이핑이 아닌 판매에 집중하세요."
+    },
+    "Feature3": {
+      "Title": "견적을 즉시 만들고 공유하세요",
+      "Description": "전문적인 인상을 주고 더 빠르게 계약 성사 — 몇 번의 클릭으로 견적 생성."
+    },
+    "Feature4": {
+      "Title": "실시간으로 영업팀의 성과를 추적하세요",
+      "Description": "리드, 활동, 거래를 한 번에 — 언제 어디서나 스마트한 대시보드로 관리하세요."
+    }
+  },
+  "StatsSection": {
+    "Title": "성장 중인 기업들의 신뢰를 받는",
+    "Description": "수천 개의 영업팀이 ACE CRM으로 영업 프로세스를 혁신했습니다",
+    "ActiveCustomers": "활성 고객",
+    "Years": "년",
+    "Customer": "고객 만족도"
+  },
+  "CallToAction": {
+    "Title": "영업 프로세스를 혁신할 준비가 되셨나요?",
+    "Subtitle": "지금 무료 체험을 시작하세요.",
+    "GetStarted": "시작하기",
+    "ContactSales": "영업팀에 문의하기"
+  },
+  "Pricing": {
+    "Title": "요금제",
+    "Subtitle": "비즈니스에 맞춘 요금제를 선택하세요",
+    "Monthly": "월간",
+    "Yearly": "연간",
+    "YearlyDiscount": "20% 할인",
+    "FeaturesIncluded": "포함된 기능:",
+    "ContactUs": "문의하기",
+    "EverythingInPremium": "Premium 플랜에 포함된 모든 기능",
+    "Customizable": "요구사항에 맞게 완전히 맞춤화 가능",
+    "ScheduleReport": "보고서 일정 예약",
+    "ContactSales": "맞춤형 솔루션은 영업팀에 문의하세요.",
+    "Month": "월",
+    "billed": "청구됨",
+    "AutoTrigger": "트리거 기반 자동 생성",
+    "Subscribe": "지금 구독하기",
+    "Contact": "영업 문의",
+    "FeatureList": "기능 목록",
+    "Plans": {
+      "Standard": {
+        "Name": "스탠다드",
+        "Desc": "소규모 팀을 위한 필수 도구",
+        "Users": "최대 10명 사용자",
+        "MonthlyPerUser": "( ₹120/사용자/월 )",
+        "YearlyPerUser": "( ₹96/사용자/월 )",
+        "Trial": "15일 무료 체험",
+        "Card": "- 신용카드 불필요"
+      },
+      "Premium": {
+        "Name": "프리미엄",
+        "Desc": "성장 중인 팀을 위한 고급 기능",
+        "Users": "최대 20명 사용자",
+        "MonthlyPerUser": "( ₹100/사용자/월 )",
+        "YearlyPerUser": "( ₹80/사용자/월 )",
+        "Trial": "15일 무료 체험",
+        "Card": "- 신용카드 불필요",
+        "Tag": "가성비 최고"
+      },
+      "Enterprise": {
+        "Name": "엔터프라이즈",
+        "Desc": "대기업을 위한 종합 솔루션"
+      }
+    },
+    "Features": {
+      "standardNote": "(최대 1500)",
+      "premiumNote": "(최대 3000)",
+      "standardNote1": "(1)",
+      "standardNote10": "(최대 10)",
+      "Unlimited": "(무제한)",
+      "Excel": "Excel 및 스프레드시트 가져오기",
+      "LeadTracking": "리드 추적",
+      "AdvancedSearch": "고급 검색 및 필터",
+      "TaskAssignment": "작업 할당 및 추적",
+      "Opportunity": "기회 추적",
+      "Quotation": "견적 생성",
+      "OrderManagement": "주문 관리",
+      "CustomizedQuote": "맞춤형 견적 템플릿",
+      "SalesTeam": "영업팀 성과 모니터링",
+      "Calendar": "캘린더 및 활동 알림",
+      "OneClick": "원클릭 리포트 및 분석",
+      "SecureCloud": "안전한 클라우드 저장소",
+      "ScheduleReport": "보고서 일정 예약"
+    },
+    "Alert": {
+      "title": "로그인 필요",
+      "des": "구독은 등록된 사용자만 이용할 수 있습니다. 모든 혜택을 누리고 구독을 완료하려면 아래 로그인 버튼을 클릭하여 계정에 로그인하세요.",
+      "login": "로그인",
+      "maybe": "나중에"
+    }
+  },
+  "ProductEnquire": {
+    "code": "KR",
+    "Title": "제품 문의",
+    "Name": "이름",
+    "NamePlaceholder": "이름을 입력하세요",
+    "Company": "회사명",
+    "CompanyPlaceholder": "회사명을 입력하세요",
+    "Email": "비즈니스 이메일",
+    "EmailPlaceholder": "이메일을 입력하세요",
+    "Mobile": "휴대폰 번호",
+    "Location": "지역",
+    "LocationPlaceholder": "지역을 입력하세요",
+    "Product": "관심 있는 제품",
+    "Queries": "문의 내용",
+    "QueriesPlaceholder": "문의사항을 입력하세요",
+    "Submit": "제출",
+    "Submitting": "제출 중...",
+    "ContactUs": "문의하기",
+    "EmailError": "유효한 이메일 주소를 입력하세요.",
+    "PhoneError": "유효한 전화번호를 입력하세요.",
+    "Failure": "메시지 전송 중 문제가 발생했습니다. 나중에 다시 시도해주세요.",
+    "ValidationUnavailable": "이메일 확인 서비스가 현재 이용 불가합니다.",
+    "contact": {
+      "Email": "이메일",
+      "Phone": "전화",
+      "Location": "위치",
+      "Address": "인도 첸나이-600032, 에카투탕갈, 구인디 산업 단지, NSIC - 소프트웨어 기술 비즈니스 파크, B-24, 2층 #306"
+    }
+  },
+  "ThankYou": {
+    "Title": "문의해 주셔서 감사합니다!",
+    "Subtitle": "저희에게 연락해 주셔서 감사합니다. 귀하의 문의는 저희에게 매우 중요하며, 기쁘게 도와드리겠습니다.",
+    "Review": "검토 중",
+    "para": "저희 팀이 메시지를 검토하고 있습니다",
+    "Soon": "곧 답변드리겠습니다",
+    "Expect": "24시간 이내에 답변을 받으실 수 있습니다",
+    "Home": "홈페이지로 돌아가기",
+    "Chat": "WhatsApp에서 채팅하기",
+    "Explore": "제품 살펴보기",
+    "need": "즉시 도움이 필요하신가요? 저희에게 전화주세요",
+    "Success": "성공!",
+    "form": "양식이 성공적으로 제출되었습니다"
+  },
+  "Footer": {
+    "contactUs": "문의하기",
+    "address": "인도 첸나이-600032, 에카투탕갈, 구인디 산업 단지, NSIC - 소프트웨어 기술 비즈니스 파크, B-24, 2층 #306",
+    "links": {
+      "QuickLinks": "빠른 링크",
+      "help": "도움말",
+      "phone": "전화",
+      "email": "이메일",
+      "Features": "기능",
+      "Pricing": "가격",
+      "Clients": "고객",
+      "Contact": "문의하기",
+      "productEnquiry": "제품 문의",
+      "bookDemo": "데모 예약",
+      "privacy": "개인정보 보호정책",
+      "terms": "이용 약관"
+    },
+    "copyright": "© 저작권 2025, 모든 권리 보유 "
+  },
+  "BookDemo": {
+    "BookDemo": "데모 예약하기",
+    "ContactUs": "문의하기",
+    "para": "양식을 작성해 주시면, 제품 전문가가 곧 연락드려 귀사의 요구 사항을 파악하고 가장 적합한 솔루션을 추천해 드리겠습니다.",
+    "write": "다음 주소로도 문의하실 수 있습니다:"
+  },
+  "CallbackCard": {
+    "Heading": "필요한 제품을 찾는 데 도움이 필요하신가요?",
+    "highlight": "적합한 제품",
+    "Subtitle": "제품 관련 질문이나 필요 사항이 있으신가요? 저희가 도와드리겠습니다.",
+    "contact": "문의하기",
+    "phone": "전화",
+    "email": "이메일",
+    "Title": "인기 제품",
+    "feature1": "교정 관리 시스템",
+    "feature2": "고객 관계 관리",
+    "tagline1": "신뢰할 수 있는 교정 관리로 생산성을 높이세요.",
+    "tagline2": "고객을 이해하고 신뢰를 구축하며 비즈니스를 성장시키세요.",
+    "LearnMore": "자세히 알아보기"
+  },
+  "Testimonials": {
+    "Client": "우리 고객",
+    "Title": "고객의 평가",
+    "user1": {
+      "Name": "라제시 쿠마르",
+      "Role": "영업 관리자",
+      "Quote": "복잡한 플랫폼에서 어려움을 겪은 후 ACE CRM으로 전환했습니다. 가장 놀라운 점은 우리 팀이 별도의 교육이 전혀 필요하지 않았다는 것입니다. 영업 담당자부터 관리자까지 모두 같은 날 바로 사용 시작했습니다."
+    },
+    "user2": {
+      "Name": "아르빈드 크리슈난",
+      "Role": "운영 관리자",
+      "Quote": "ACE CRM은 중복 입력의 문제를 없앴습니다. 리드는 웹사이트에서 직접 흐르고, 연락처는 자동으로 동기화되며, 고객 정보는 항상 업데이트됩니다."
+    },
+    "user3": {
+      "Name": "산디프 조시",
+      "Role": "사업 개발 관리자",
+      "Quote": "ACE CRM을 사용하면 제안서 작성이 매우 쉬워졌습니다. 이전에는 하루 종일 걸리던 작업이 이제 몇 분 만에 완료됩니다. 고객들은 전문적이고 브랜드화된 견적을 좋아합니다."
+    },
+    "user4": {
+      "Name": "프리야 아이어",
+      "Role": "재무 책임자",
+      "Quote": "실시간 대시보드는 제 영업팀 관리 방식을 변화시켰습니다. 누가 리드를 전환하는지, 어느 거래가 막혀 있는지, 어떤 활동이 결과를 내는지 즉시 확인할 수 있습니다."
+    },
+    "user5": {
+      "Name": "락슈미 나라야난",
+      "Role": "마케팅 디렉터",
+      "Quote": "ACE CRM은 고객과의 업무를 완전히 간소화했습니다. 리드 캡처에서 거래 종료까지 모든 것이 연결되고 가시화되어 팀 효율성이 향상되었습니다."
+    },
+    "user6": {
+      "Name": "아비셰크",
+      "Role": "제품 관리자",
+      "Quote": "성장하는 스타트업으로서 강력하고 쉽게 채택할 수 있는 CRM이 필요했습니다. ACE CRM은 완벽한 균형을 제공하며 우리와 함께 성장하면서도 매우 사용자 친화적입니다."
+    }
+  },
+  "Popup": {
+    "Offer": "한정 시간 제공",
+    "Try": "프리미엄 무료 체험!",
+    "Get": "우리 플랫폼에 전체 액세스",
+    "Platform": "15일 동안",
+    "Free": "완전히 무료!",
+    "All": "모든 프리미엄 기능 포함:",
+    "Manage": "리드를 손쉽게 관리",
+    "Track": "- 리드를 추적, 정리 및 빠르게 전환",
+    "Sales": "영업 파이프라인",
+    "Visualize": "- 전체 영업 프로세스를 시각화",
+    "Advanced": "고급 분석",
+    "Make": "- 데이터 기반 의사결정",
+    "Start": "무료 체험 시작",
+    "Credit": "신용카드 필요 없음",
+    "Cancel": "언제든지 취소 가능 • 전체 프리미엄 액세스 • 15일 무료",
+    "Book": "예약하기",
+    "Live": "무료 라이브 데모",
+    "Discover": "리드를 정리하고, 거래를 추적하며, ACE CRM으로 비즈니스를 성장시키는 가장 쉬운 방법을 발견하세요."
+  }
+}
