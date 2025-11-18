@@ -98,7 +98,6 @@ const DemoFormPopup: React.FC<DemoFormPopupProps> = ({ onClose }) => {
     try {
       await emailjs.send(service_ID, template_ID, formData, publicKey);
       sessionStorage.setItem("form_submitted", "demo_popup_form");
-
       formCurrent.reset();
       setEmail("");
       setPhone("");
