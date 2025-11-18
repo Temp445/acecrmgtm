@@ -14,9 +14,32 @@ import Logo from "@/assets/AceLogo.png";
 import Image from "next/image";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
+import { useEffect } from "react";
+import { eventTracking } from "@/lib/gtm";
 
 const WhatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER;
 const ThankYouPage = () => {
+  
+  useEffect(() => {
+  const formId = sessionStorage.getItem("form_submitted");
+  if (!formId) return;
+
+  const formNames: Record<string, string> = {
+    contact_form: "Contact Form",
+    request_callback_form: "Request Callback Form",
+    demo_popup_form: "Demo Popup Form"
+  };
+
+   eventTracking({
+        eventName: 'form_submit',
+        formName: formNames[formId] || "Form",
+        formId,
+        leadType: 'Enquiry',
+      })
+
+  sessionStorage.removeItem("form_submitted");
+}, []);
+
   const handleClick = () => {
     const message = encodeURIComponent(
       "Hello, I want to know more about your services."
